@@ -1,11 +1,9 @@
 # Laurens-Projects
-This repository contains some pictures and CAD designs of my past projects. All folders contain at least one picture of the project. I have also included the CAD and Inkscape files for most projects
-Some of these projects were done as part of a school assignment, but most were done in my free time. I have tried to add most projects from my free time, although one or two may be missing.
-Below you can find a quick overview of all the projects and a brief description, enjoy!
+This repository contains some pictures and CAD designs of my past projects. All folders contain at least one picture of the project. I have also included the CAD and Inkscape files for most projects. Some of these projects were done as part of a school assignment, but most were done in my free time. I have tried to add most projects from my free time, although one or two may be missing. Below you can find a quick overview of all the projects and a brief description. Enjoy!
 
 **1. School**
    1. Cleaning robot
-For my high-school graduation project, me and two friend decided to build a cleaning robot for the sports hall. None of us had any experience with electronics, design, coding... We had to learn everything and do it ourself. It took a lot of work and many errors, but we were able to deliver quite a good result. The robot never ended up cleaning the sports hall, but it did put me on the road to become an engineer. Sadly, most documents have been lost to the sands of time as I hadn't learned how to properly organise things yet.
+For my high-school graduation project, me and two friends decided to build a cleaning robot for the sports hall. None of us had any experience with electronics, design, coding... We had to learn everything and do it ourselves. It took a lot of work and many errors, but we were able to deliver quite a good result. The robot never ended up cleaning the sports hall, but it did put me on the road to becoming an engineer. Sadly, most documents have been lost to the sands of time as I hadn't learned how to properly organise things yet.
 
   2. Ping Pong Shooter
 My first proper project at university. We had to create a device that shoots ping pong balls in a couple of different directions. It had to be able to automatically collect the balls again, which we aimed to do using a net. I was responsible for the mechanical part of the project. Additionally, I was the team leader and had to oversee everything.
@@ -27,7 +25,7 @@ I wanted to built a house for stray cats using my beloved method of laser cuttin
 This was a gift for my brother and sister-in-law when they moved in together. It is a storage box for the board game Catan. When folded open, it is possible to play Catan on top of the box. The bottom is lined with vilt. It was a big project due to there being a lot of different components involved and the many decorations I created in the style of Catan.
 
    - Feather box:
-A feather box with a "living edge" around the edge, created to store all the beautiful feathers I find in my garden.
+A feather box with a 'living edge' created to store all the beautiful feathers I find in my garden.
 
    - Football display:
 My sister's boyfriend caught a signed ball during the last football match of the season. I made him a display case to commemorate this moment.
